@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200106319980",
+    "project_id": "qlchitieunhom-d9d2d",
+    "storage_bucket": "qlchitieunhom-d9d2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200106319980:android:fded97218f947fe8c93849",
+        "android_client_info": {
+          "package_name": "com.example.qlchitieunhom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhzhBefQrRshTiPzkqr5yk0sfrxSuM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

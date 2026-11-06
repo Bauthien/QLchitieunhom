@@ -1,0 +1,31 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/Pods/
+ios/Flutter/ephemeral/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Firebase credentials / private keys
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
